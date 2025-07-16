@@ -49,6 +49,29 @@ amazon-clone/
 ├── hero_image.jpg
 └── img.png
 ```
+## 🚀 How to Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Jaanvichouhan34/amazon.git
+cd amazon
+
+## 📚 What I Learned
+
+- HTML page structure and semantic tags  
+- CSS Flexbox and grid systems  
+- Styling buttons, cards, headers, and footers  
+- Importance of clean and organized code  
+
+---
+
+## 📬 Contact
+
+Feel free to connect with me:
+
+- 🔗 [GitHub](https://github.com/Jaanvichouhan34)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jaanvi-chouhan-b83158313)
 
 
 
