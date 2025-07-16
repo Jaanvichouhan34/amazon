@@ -57,7 +57,7 @@ amazon-clone/
 git clone https://github.com/Jaanvichouhan34/amazon.git
 cd amazon
 ```
----
+
 2. Open index.html in your browser.
 ---
 ## 📚 What I Learned
