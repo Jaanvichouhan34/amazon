@@ -25,8 +25,6 @@ This was my first web development project where I explored **page structuring, l
 
 ---
 
-## 📁 Folder Structure
-
 
 ## 📁 Folder Structure
 
