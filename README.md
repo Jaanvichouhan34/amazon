@@ -27,19 +27,21 @@ This was my first web development project where I explored **page structuring, l
 
 ## 📁 Folder Structure
 
-📚 What I Learned
-HTML page structure and semantic tags
+amazon-clone/
+├── index.html
+├── style.css
+├── README.md
+├── amazon_logo.png
+├── box_one.jpg
+├── box_two.jpg
+├── box_three.jpg
+├── box_four.jpg
+├── box_five.jpg
+├── box_six.jpg
+├── box_seven.jpg
+├── box_eight.jpg
+├── hero_image.jpg
+└── img.png
 
-CSS Flexbox and grid systems
 
-Styling buttons, cards, headers, and footers
-
-Importance of clean and organized code
-
-📬 Contact
-Feel free to connect with me:
-
-🔗 GitHub
-
-💼 LinkedIn
 
