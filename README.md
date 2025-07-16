@@ -28,23 +28,30 @@ This was my first web development project where I explored **page structuring, l
 ## 📁 Folder Structure
 
 
+## 📁 Folder Structure
+
 amazon-clone/
 ```bash
 ├── index.html
 ├── style.css
 ├── README.md
 ├── amazon_logo.png
-├── box_one.jpg
-├── box_two.jpg
-├── box_three.jpg
-├── box_four.jpg
-├── box_five.jpg
-├── box_six.jpg
-├── box_seven.jpg
-├── box_eight.jpg
+├── box1_image.jpg
+├── box2_image.jpg
+├── box3_image.jpg
+├── box4_image.jpg
+├── box5_image.jpg
+├── box6_image.jpg
+├── box7_image.jpg
+├── box8_image.jpg
+├── box9_image.jpg
+├── box10_image.jpg
+├── box11_image.jpg
+├── box12_image.jpg
 ├── hero_image.jpg
 └── img.png
 ```
+
 
 
 
