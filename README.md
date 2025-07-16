@@ -55,10 +55,11 @@ amazon-clone/
 
 ```bash
 git clone https://github.com/Jaanvichouhan34/amazon.git
-cd amazon```
-
+cd amazon
+```
+---
 2. Open index.html in your browser.
-
+---
 ## 📚 What I Learned
 
 - HTML page structure and semantic tags  
