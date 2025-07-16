@@ -26,7 +26,7 @@ This was my first web development project where I explored **page structuring, l
 ---
 
 ## 📁 Folder Structure
-
+'''
 amazon-clone/
 ├── index.html
 ├── style.css
@@ -41,7 +41,7 @@ amazon-clone/
 ├── box_seven.jpg
 ├── box_eight.jpg
 ├── hero_image.jpg
-└── img.png
+└── img.png'''
 
 
 
