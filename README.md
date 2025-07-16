@@ -27,3 +27,19 @@ This was my first web development project where I explored **page structuring, l
 
 ## 📁 Folder Structure
 
+📚 What I Learned
+HTML page structure and semantic tags
+
+CSS Flexbox and grid systems
+
+Styling buttons, cards, headers, and footers
+
+Importance of clean and organized code
+
+📬 Contact
+Feel free to connect with me:
+
+🔗 GitHub
+
+💼 LinkedIn
+
