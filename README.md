@@ -27,8 +27,9 @@ This was my first web development project where I explored **page structuring, l
 
 ## 📁 Folder Structure
 
-```bash
+
 amazon-clone/
+```bash
 ├── index.html
 ├── style.css
 ├── README.md
