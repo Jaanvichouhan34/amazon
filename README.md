@@ -51,11 +51,13 @@ amazon-clone/
 ```
 ## 🚀 How to Run Locally
 
-Clone the repository:
+1.Clone the repository:
 
 ```bash
 git clone https://github.com/Jaanvichouhan34/amazon.git
-cd amazon
+cd amazon'''
+
+2.Open index.html in your browser.
 
 ## 📚 What I Learned
 
